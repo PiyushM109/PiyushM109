@@ -41,11 +41,11 @@
     
 </p>
 
-<div class="parent-container">
+<div>
         <a href="https://github.com/PiyushM109/github-readme-streak-stats">
-        <img alt="Piyush's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushM109&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=54BAD7&fire=54BAD7&currStreakLabel=54BAD7"/>
-    </a>
-        <img height="195px"  src="https://leetcard.jacoblin.cool/piyushgmore?theme=dark&font=Tenali%20Ramakrishna"/>
+    <img width="300px" alt="Piyush's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushM109&theme=black- ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=54BAD7&fire=54BAD7&currStreakLabel=54BAD7"/>
+</a>
+        <img width="300px"  src="https://leetcard.jacoblin.cool/piyushgmore?theme=dark&font=Tenali%20Ramakrishna"/>
 </div>
 
 
