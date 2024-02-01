@@ -16,8 +16,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--  **Working :**  Web Development :computer:  
--  **Learning :** Full-Stack :zap: | Flutter :fire:	
+-  **Learning :** MERN :zap: | Flutter :fire:	
 -  **Hobbies :** Books :books: | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 
@@ -26,11 +25,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PiyushM109" alt="PiyushM109" /> </p>
 
-### 📊 Profile stats
+## 🚀 Languages and Tools:
+
+<p align="center"> 
+    <a target="_blank" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/></a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
+    <a target="_blank" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a target="_blank" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/></a>
+    
+</p>
 
 <div class="parent-container">
-        <img width="400" src="https://github-readme-stats.vercel.app/api?username=PiyushM109&theme=dark&show_icons=true"/>
-        <img width="400" src="https://leetcard.jacoblin.cool/piyushgmore?theme=dark&font=Tenali%20Ramakrishna"/>
+        <a href="https://github.com/PiyushM109/github-readme-streak-stats">
+        <img alt="Piyush's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushM109&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=54BAD7&fire=54BAD7&currStreakLabel=54BAD7"/>
+    </a>
+        <img height="195px"  src="https://leetcard.jacoblin.cool/piyushgmore?theme=dark&font=Tenali%20Ramakrishna"/>
 </div>
 
 
