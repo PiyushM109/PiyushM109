@@ -16,7 +16,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--  **Learning :** MERN :zap: | Flutter :fire:	
+-  **Learning :** MERN :zap: | Web-3 :fire:	
 -  **Hobbies :** Books :books: | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 
