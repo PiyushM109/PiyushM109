@@ -18,7 +18,7 @@
 
 ## 🤔 About Me
 
-- 🌱 **Currently Learning:** MERN Stack & Web3
+- 🌱 **Currently Learning:** MERN Stack & GO
 - 🎯 **Interests:** Full-Stack Development, Blockchain Technology
 - 📚 **Hobbies:** Reading Books | Listening to Music 🎧
 - 💬 **Ask me about:** Anything! I'm happy to help
